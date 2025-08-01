@@ -14,7 +14,7 @@
 
 I'm a passionate backend developer focused on building robust, scalable, and secure server-side applications. Experienced in designing RESTful APIs, managing databases, and optimizing backend performance for production environments.
 
-- 💼 **Backend Stack:** PHP (Laravel, CodeIgniter), Node.js, MySQL, MongoDB, Redis
+- 💼 **Backend Stack:** PHP (Laravel, CodeIgniter), Node.js, Express.js, NestJS, MySQL, MongoDB, Redis
 - 🔒 **DevOps & Cloud:** Docker, Linux, Nginx, CI/CD pipelines
 - 🛠️ **API Development:** RESTful, GraphQL, JSON, OAuth2
 - 🧩 **Testing & Quality:** PHPUnit, Postman, Swagger
@@ -28,6 +28,8 @@ I'm a passionate backend developer focused on building robust, scalable, and sec
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -51,10 +53,3 @@ I'm a passionate backend developer focused on building robust, scalable, and sec
 - LinkedIn: [Your LinkedIn URL]
 - Email: [your.email@example.com]
 - Portfolio: [Your Website]
-
----
-
-<!-- Snake animation for contributions -->
-<p align="center">
-  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" />
-</p>
