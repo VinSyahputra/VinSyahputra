@@ -45,11 +45,3 @@ I'm a passionate backend developer focused on building robust, scalable, and sec
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinSyahputra&layout=compact&theme=radical" />
 </p>
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: [Your LinkedIn URL]
-- Email: [your.email@example.com]
-- Portfolio: [Your Website]
