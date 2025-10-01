@@ -17,8 +17,8 @@ I'm a passionate backend developer focused on building robust, scalable, and sec
 - 💼 **Backend Stack:** PHP (Laravel, CodeIgniter), Node.js, Express.js, NestJS, MySQL, MongoDB, Redis
 - 🔒 **DevOps & Cloud:** Docker, Linux, Nginx, CI/CD pipelines
 - 🛠️ **API Development:** RESTful, GraphQL, JSON, OAuth2
-- 🧩 **Testing & Quality:** PHPUnit, Postman, Swagger
-- 🌱 Currently learning: Microservices, Kubernetes
+- 🧩 **Testing & Quality:** PHPUnit, Postman, K6
+- 🌱 Currently learning: Microservices, NextJS
 
 ---
 
